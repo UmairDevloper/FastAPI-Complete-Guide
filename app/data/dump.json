@@ -1,0 +1,172 @@
+[
+  {
+    "id": "6d334c70-6083-4d23-87ee-921dd94ccfce",
+    "sku": "XIAO-359GB-002",
+    "name": "Xiaomi Model Pro",
+    "description": "string",
+    "category": "mobiles",
+    "brand": "Xiaomi",
+    "price": 106.0,
+    "discount_percent": 0,
+    "stock_price": 1.0,
+    "is_active": true,
+    "rating": 1.0,
+    "currency": "INR",
+    "tags": [
+      "string"
+    ],
+    "image_url": [
+      "https://example.com/"
+    ],
+    "dimension_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "John Wick",
+      "email": "user@hpworld.in",
+      "website": "https://example.com/"
+    },
+    "created_at": "2026-01-12T09:41:44.708442Z",
+    "volume_cm": 1.0,
+    "discount_ratio": 0.01,
+    "stock": 109,
+    "image_urls": [
+      "https://example.com/"
+    ],
+    "dimensions_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "final_price": 106.0,
+    "volume_cm3": 1.0
+  },
+  {
+    "id": "ef484ec4-d230-40cd-a85e-1d15c3551b0b",
+    "sku": "XIAO-359GB-001",
+    "name": "string",
+    "description": "string",
+    "category": "string",
+    "brand": "string",
+    "price": 100.0,
+    "discount_percent": 90,
+    "stock_price": 1.0,
+    "is_active": true,
+    "rating": 5.0,
+    "currency": "INR",
+    "tags": [
+      "string"
+    ],
+    "image_url": [
+      "https://example.com/"
+    ],
+    "dimension_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "string",
+      "email": "user@hpworld.in",
+      "website": "https://example.com/"
+    },
+    "created_at": "2026-01-13T09:04:28.249258Z",
+    "volume_cm": 1.0,
+    "discount_ratio": -9.0,
+    "stock": 23,
+    "image_urls": [
+      "https://example.com/"
+    ],
+    "dimensions_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "final_price": 10.0,
+    "volume_cm3": 1.0
+  },
+  {
+    "id": "8b118839-3360-46e0-a584-33ff29c587bb",
+    "sku": "XIAO-359GB-003",
+    "name": "Xiaomi Model Pro",
+    "description": "string",
+    "category": "mobiles",
+    "brand": "Xiaomi",
+    "price": 123.0,
+    "discount_percent": 10,
+    "stock_price": 12.0,
+    "is_active": true,
+    "rating": 2,
+    "currency": "INR",
+    "tags": [
+      "string"
+    ],
+    "image_url": [
+      "https://example.com/"
+    ],
+    "dimension_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "John Wick",
+      "email": "user@hpworld.in",
+      "website": "https://example.com/"
+    },
+    "created_at": "2026-01-13T10:15:08.526850Z",
+    "volume_cm": 1.0,
+    "discount_ratio": -11.07,
+    "final_price": 110.7
+  },
+  {
+    "id": "29b81213-6a04-4cd6-a540-ddd2a3172858",
+    "sku": "XIAO-359GB-007",
+    "name": "Xiaomi Model Pro",
+    "description": "string",
+    "category": "mobiles",
+    "brand": "Xiaomi",
+    "price": 175.0,
+    "discount_percent": 19,
+    "stock_price": 12.0,
+    "is_active": true,
+    "rating": 2.0,
+    "currency": "INR",
+    "tags": [
+      "string"
+    ],
+    "image_url": [
+      "https://example.com/"
+    ],
+    "dimension_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "John Wick",
+      "email": "user@hpworld.in",
+      "website": "https://example.com/"
+    },
+    "created_at": "2026-01-13T10:29:01.739958Z",
+    "volume_cm": 1.0,
+    "discount_ratio": -16.02,
+    "final_price": 141.75,
+    "stock": 12,
+    "image_urls": [
+      "https://example.com/"
+    ],
+    "dimensions_cm": {
+      "length": 1.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "volume_cm3": 1.0
+  }
+]
