@@ -1,0 +1,1 @@
+user3.following.append(user1)
